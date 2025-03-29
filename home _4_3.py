@@ -1,5 +1,8 @@
+import random
 
-lst = range(10)
+lst = range(random.randrange(3, 10))
+#lst = range(7)
+#lst = range(3)
 numbers = []
 new_list = []
 for el in lst:
@@ -10,3 +13,7 @@ new_list.append(numbers[2])
 new_list.append(numbers[-2])
 
 print(numbers,'=>',new_list )
+
+
+
+
