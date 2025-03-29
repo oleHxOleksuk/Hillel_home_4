@@ -1,5 +1,5 @@
 import random
-lst = range(random.randrange(3, 10))
+lst = range(random.randrange(3, 11))
 #lst = range(7)
 #lst = range(3)
 numbers = []
