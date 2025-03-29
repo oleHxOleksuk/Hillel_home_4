@@ -1,5 +1,4 @@
 import random
-
 lst = range(random.randrange(3, 10))
 #lst = range(7)
 #lst = range(3)
